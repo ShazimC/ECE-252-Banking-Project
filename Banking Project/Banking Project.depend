@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1491213692 source:c:\users\shazim\desktop\c++ projects\banking project\main.cpp
+	"function_file.cpp"
+
+1491205990 c:\users\shazim\desktop\c++ projects\banking project\header_file.h
+	<vector>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<typeinfo>
+	<limits>
+
+1491213368 c:\users\shazim\desktop\c++ projects\banking project\function_file.cpp
+	"header_file.h"
+
+1491215704 source:c:\users\shazim\desktop\coding and design\c++ projects\banking project\main.cpp
+	"function_file.cpp"
+
+1491215704 c:\users\shazim\desktop\coding and design\c++ projects\banking project\function_file.cpp
+	"header_file.h"
+
+1491205990 c:\users\shazim\desktop\coding and design\c++ projects\banking project\header_file.h
+	<vector>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<typeinfo>
+	<limits>
+
+1491215704 source:c:\users\shazim\desktop\coursework\c++\banking project\main.cpp
+	"function_file.cpp"
+
+1491215704 c:\users\shazim\desktop\coursework\c++\banking project\function_file.cpp
+	"header_file.h"
+
+1491205990 c:\users\shazim\desktop\coursework\c++\banking project\header_file.h
+	<vector>
+	<iostream>
+	<stdlib.h>
+	<string>
+	<time.h>
+	<typeinfo>
+	<limits>
+
